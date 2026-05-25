@@ -1,0 +1,105 @@
+aid: levelset-com
+name: Levelset
+description: >-
+  Levelset is a New Orleans-based construction payment software company that
+  helps contractors, subcontractors, material suppliers, and equipment rental
+  firms manage mechanics lien rights, preliminary notices, lien waivers, and
+  payment compliance across all 50 U.S. states. The platform automates
+  preliminary notice delivery, lien filing and release, conditional and
+  unconditional lien waiver exchange, job and stakeholder research, and
+  contractor payment-history monitoring, with deep state-by-state lien-law
+  templates and deadline tracking. Founded as zlien in 2011 and rebranded to
+  Levelset in 2018, the company was acquired by Procore Technologies for
+  approximately $500 million in November 2021 and now operates as part of
+  Procore's invoicing and payments suite. Customer-facing integrations exist
+  with Procore, Sage, Viewpoint, Foundation, Acumatica, QuickBooks and other
+  construction ERP and accounting platforms, but Levelset does not currently
+  publish a self-serve public REST API, OpenAPI specification, SDKs, or a
+  developer portal — integrations are delivered through partner-built
+  connectors, the Procore Marketplace, and direct enterprise engagements with
+  the Levelset integrations team. The Levelset GitHub organization is empty
+  and developers.levelset.com / developer.levelset.com are not publicly
+  reachable as of this profile date.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Construction
+  - Construction Payments
+  - Lien Rights
+  - Mechanics Liens
+  - Preliminary Notices
+  - Lien Waivers
+  - Payment Compliance
+  - Subcontractors
+  - General Contractors
+  - Material Suppliers
+  - Construction Finance
+  - Procore
+  - ERP Integration
+  - Accounts Receivable
+  - SaaS
+url: https://raw.githubusercontent.com/api-evangelist/levelset-com/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.levelset.com
+  - type: Login
+    url: https://app.levelset.com/login
+  - type: Pricing
+    url: https://www.levelset.com/pricing/
+  - type: Products
+    url: https://www.levelset.com/products/
+  - type: LienRights
+    url: https://www.levelset.com/lien-rights/
+  - type: LienWaivers
+    url: https://www.levelset.com/lien-waivers/
+  - type: PreliminaryNotices
+    url: https://www.levelset.com/preliminary-notices/
+  - type: ContractorProfiles
+    url: https://www.levelset.com/contractors/
+  - type: Integrations
+    url: https://www.levelset.com/integrations/
+  - type: ProcoreIntegration
+    url: https://hub.levelset.com/procore-integration-one-pager/
+  - type: ProcoreMarketplace
+    url: https://marketplace.procore.com/apps/waivers-lien-risk-management-by-zlien
+  - type: LienLawFAQs
+    url: https://www.levelset.com/mechanics-lien/
+  - type: PaymentHelp
+    url: https://www.levelset.com/payment-help/
+  - type: Blog
+    url: https://www.levelset.com/blog/
+  - type: News
+    url: https://www.levelset.com/news/
+  - type: AboutUs
+    url: https://www.levelset.com/about-us/
+  - type: Careers
+    url: https://www.levelset.com/careers/
+  - type: Contact
+    url: https://www.levelset.com/contact-us/
+  - type: Support
+    url: https://help.levelset.com/
+  - type: ParentCompany
+    url: https://www.procore.com
+  - type: AcquisitionAnnouncement
+    url: https://www.procore.com/press/procore-to-acquire-levelset-to-simplify-lien-management-workflows-for-construction
+  - type: AcquisitionCompletion
+    url: https://www.businesswire.com/news/home/20211103005176/en/Procore-Completes-Acquisition-of-Levelset-to-Simplify-Lien-Management-Workflows-for-Construction
+  - type: GitHub
+    url: https://github.com/levelset
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/levelset
+  - type: Twitter
+    url: https://twitter.com/levelset
+  - type: YouTube
+    url: https://www.youtube.com/@levelset
+  - type: Facebook
+    url: https://www.facebook.com/levelset
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

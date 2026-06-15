@@ -2,6 +2,13 @@
   "repo": "levelset-com",
   "feeds": [
     {
+      "source": "https://www.levelset.com/blog/",
+      "feed_url": "https://www.levelset.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
       "source": "https://www.levelset.com/payment-help/",
       "feed_url": "https://www.levelset.com/payment-help/",
       "title": "",
@@ -10,5 +17,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-01T23:35:02Z"
+  "fetched": "2026-06-14T20:42:17Z"
 }
